@@ -10,9 +10,25 @@ This Week 1 proposal asks how an online skincare retailer can make customer feed
 
 The initial scope is **review analysis and product discovery**, not a production recommendation engine or customer churn prediction system.
 
-## Business problem
+
+## Business Problem
 
 How can product ratings and written reviews be organized into useful summaries of customer feedback across skincare categories?
+
+Average star ratings provide a quick overview of customer satisfaction, but they may not explain the reasons behind customer opinions. Written reviews can reveal recurring feedback about texture, fragrance, packaging, value for money, delivery, and perceived product performance.
+
+## Potential Business Value and ROI
+
+The proposed analysis could help a skincare retailer identify recurring customer concerns and decide which product descriptions, packaging issues, or customer-support topics require further investigation.
+
+The potential business value may include more efficient review analysis, clearer summaries of customer feedback, and better-informed product or customer-experience decisions.
+
+Return on Investment (ROI) could be evaluated in a future implementation by comparing documented financial benefits with the total costs of analysis and any resulting changes.
+
+**ROI (%) = (Financial Benefits − Total Costs) / Total Costs × 100**
+
+No numerical ROI, sales increase, or customer-retention improvement is claimed at this stage because no dataset has been analysed and no business outcomes have been measured.
+
 
 ## Research questions
 
