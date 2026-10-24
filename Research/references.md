@@ -26,7 +26,3 @@ This file lists the public sources consulted when preparing the Week 1 project p
 - Sources 1–3 provide background context about the beauty market, online beauty discovery, and consumer considerations. They do **not** establish that this project will increase sales.
 - Source 4 documents text-feature extraction approaches such as count-based features and TF-IDF, which may be considered during the analysis.
 - Source 5 is related research on aspect-level analysis of customer feedback. It is background literature, not evidence of findings from this project.
-
-## Project status
-
-This is a Week 1 proposal. No dataset has yet been analysed and no project-specific results are reported. Any additional dataset used later should be documented separately, including its title, publisher, URL, access date, licence or terms of use, and relevant limitations.
